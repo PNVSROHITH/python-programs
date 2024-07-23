@@ -1,2 +1,0 @@
-num = int(input("enter any number:"))
-print(str(num)[::-1])
